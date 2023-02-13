@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\PlacingIsolate\PlacingIsolateWithCutVoid.dll</Assembly>
+		<ClientId>BA3CF485-1912-4704-9786-8101BCF012B9</ClientId>
+		<FullClassName>PlacingIsolateWithCutVoid.NewFamilyIsolate</FullClassName>
+		<Text>GetGeometry test</Text>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<LanguageType>Unknown</LanguageType>
+		<VendorId>ADSK</VendorId>
+	</AddIn>
+</RevitAddIns>

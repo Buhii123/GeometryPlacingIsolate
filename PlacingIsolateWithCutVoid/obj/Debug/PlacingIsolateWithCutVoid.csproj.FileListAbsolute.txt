@@ -1,0 +1,6 @@
+D:\Học Tập\AppRevit\PlacingIsolateWithCutVoid\PlacingIsolateWithCutVoid\bin\Debug\PlacingIsolateWithCutVoid.dll
+D:\Học Tập\AppRevit\PlacingIsolateWithCutVoid\PlacingIsolateWithCutVoid\bin\Debug\PlacingIsolateWithCutVoid.pdb
+D:\Học Tập\AppRevit\PlacingIsolateWithCutVoid\PlacingIsolateWithCutVoid\obj\Debug\PlacingIsolateWithCutVoid.csproj.AssemblyReference.cache
+D:\Học Tập\AppRevit\PlacingIsolateWithCutVoid\PlacingIsolateWithCutVoid\obj\Debug\PlacingIsolateWithCutVoid.csproj.CoreCompileInputs.cache
+D:\Học Tập\AppRevit\PlacingIsolateWithCutVoid\PlacingIsolateWithCutVoid\obj\Debug\PlacingIsolateWithCutVoid.dll
+D:\Học Tập\AppRevit\PlacingIsolateWithCutVoid\PlacingIsolateWithCutVoid\obj\Debug\PlacingIsolateWithCutVoid.pdb
